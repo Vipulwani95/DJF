@@ -1,0 +1,53 @@
+name: test_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 2.0.0+0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.1
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.2
+  shared_preferences: ^2.2.0
+  excel: ^3.0.0
+  http: ^1.1.0
+  qr_flutter: ^4.1.0
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  pdf: ^3.10.4
+  qr: ^3.0.1
+  printing: ^5.14.2
+  share_plus: ^7.1.0
+  mobile_scanner: ^3.5.5
+  permission_handler: ^11.0.1
+  path: ^1.8.3
+  googleapis: ^11.4.0
+  googleapis_auth: ^1.4.1
+  google_sign_in: ^6.1.4
+  url_launcher: ^6.2.4
+  package_info_plus: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sampleapp-456304-0e65d6f57b51.json
+    - assets/images/
+    - assets/fonts/NotoSansKannada-Regular.ttf
+
+  fonts:
+    - family: NotoSansKannada
+      fonts:
+        - asset: assets/fonts/NotoSansKannada-Regular.ttf
