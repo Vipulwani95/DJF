@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9656470be34499bb7e7c570ce04796cc",
-"assets/AssetManifest.bin.json": "a321f27bc09abbb6e97f6b05482d0aa0",
-"assets/AssetManifest.json": "4d55bdc03280209530bed84eba590ca7",
+const RESOURCES = {"assets/AssetManifest.bin": "03bf6dc6de8e6dd6cf80f87cc64cf693",
+"assets/AssetManifest.bin.json": "908a3e695af9b68acf31a30dde8184e5",
+"assets/AssetManifest.json": "bae243ebbc83e33ccade1d7344d5d39e",
 "assets/assets/fonts/MaterialIcons-Regular.otf": "e940a46f37d4a0fdb04b5c799a75cc86",
 "assets/assets/fonts/NotoSansKannada-Regular.ttf": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/images/Aarti%2520Swaroop.jpg": "8e84bc3a19da104d564cd8575b5ae776",
@@ -42,6 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9656470be34499bb7e7c570ce04796cc
 "assets/assets/images/Badam%2520Oil%252050ml.jpg": "b5935fd722d230216f93e8f50504971d",
 "assets/assets/images/Badam%2520Paak%252080%2520Gm.jpg": "f33a868e69ac5f14317e07588b05ce5b",
 "assets/assets/images/Bairagan%2520Folding%2520400%2520(Without%2520Bag).jpg": "a41d8065c8fbd12b1e2230a869a35a42",
+"assets/assets/images/Bairagan%2520Folding%2520480%2520(With%2520Bag).jpg": "a41d8065c8fbd12b1e2230a869a35a42",
 "assets/assets/images/Bel%2520Sharbat%2520750ml.jpg": "bbe4089f1ed6c98a10e2a11e3e60bb07",
 "assets/assets/images/Bhakti%2520Ke%2520Anuthe%2520Rang%2520-%2520Hindi%2520Book.jpg": "fa9537c8d251a377beb2c13b0d2f8b3a",
 "assets/assets/images/Bharat%2520Vishav%2520Ka%2520Hriday%2520-%2520Hindi%2520Book.jpg": "f19c09e6f12da7c3c4b4f7b62765ac0e",
@@ -304,13 +305,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "9656470be34499bb7e7c570ce04796cc
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "d41d8cd98f00b204e9800998ecf8427e",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "ab0a98bf9d48026f1900e54049eefdfb",
+"flutter_bootstrap.js": "033c321fa395914a2442620b9e3890f6",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e96084391f28022b80bbce7e3ccf1d3c",
-"/": "e96084391f28022b80bbce7e3ccf1d3c",
+"index.html": "848150b6eda8aa4f291be59c29d2961e",
+"/": "848150b6eda8aa4f291be59c29d2961e",
 "main.dart.js": "056362c95e2c7f32832c362f76854b05",
 "manifest.json": "cce62d2c79790ee8cc233ce14135c07c",
 "version.json": "8492c7cb83ccab73eb622d9be710ac4e"};
